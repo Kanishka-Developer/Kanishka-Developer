@@ -1,5 +1,7 @@
 [![An image of @kanishka_developer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishka_developer)](https://holopin.io/@kanishka_developer)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 <!--
 **Kanishka-Developer/Kanishka-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
